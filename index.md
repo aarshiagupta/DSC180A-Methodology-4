@@ -31,7 +31,7 @@ I'd like to try different ways of measuring how much two outlines of the same bu
 
 **Is our domain on track for Quarter 1, and what is feasible for Quarter 2?**
 
-We've made good progress, even if things aren't fully settled. We've finished the homeworks and mapping work, set up our repo, pulled OSM footprints for our zip codes, and drafted parts of our report.
+We've made progress, even if things aren't fully settled. We've finished the homeworks and mapping work, set up our repo, pulled OSM footprints for our zip codes, and drafted parts of our report.
 
 Early on, we weren't sure what our concrete Q1 project should be, since Q1 was set up as more of a learning quarter. So we talked to our TA about it, then brainstormed a set of project ideas based on what we'd learned and shared them with both our mentor and our TA. That got us some clarity in the right direction: our mentor said the winter work will be very similar to our cross-source consistency idea. We don't have 100% clarity yet, and a few details from our meetings still need confirming.
 
